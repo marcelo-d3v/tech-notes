@@ -1,4 +1,4 @@
-# 📚 Tech Notes
+# 📚 Notas de Estudo
 
 Repositório dedicado à documentação dos meus estudos contendo resumos, tópicos, códigos e mapas mentais de tecnologias, linguagens, ferramentas e boas práticas 
 
